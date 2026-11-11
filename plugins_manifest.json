@@ -1,0 +1,132 @@
+{
+  "ecosystem": "Claude Code (Official & Directory)",
+  "total_plugins": 18,
+  "plugins": {
+    "skill-creator": {
+      "id": "skill-creator@anthropic-plugin-directory",
+      "name": "skill-creator",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "a2e251d9b97b-12a7c5cc",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/skill-creator/a2e251d9b97b-12a7c5cc"
+    },
+    "feature-dev": {
+      "id": "feature-dev@anthropic-plugin-directory",
+      "name": "feature-dev",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "1.0.1-43fd1f9db094",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/feature-dev/1.0.1-43fd1f9db094"
+    },
+    "code-review": {
+      "id": "code-review@claude-plugins-official",
+      "name": "code-review",
+      "marketplace": "claude-plugins-official",
+      "version": "b8e53f1c05df",
+      "install_path": "/home/tristan/.claude/plugins/cache/claude-plugins-official/code-review/b8e53f1c05df"
+    },
+    "code-simplifier": {
+      "id": "code-simplifier@anthropic-plugin-directory",
+      "name": "code-simplifier",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "1.0.0-ea0a38e1d671",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/code-simplifier/1.0.0-ea0a38e1d671"
+    },
+    "pr-review-toolkit": {
+      "id": "pr-review-toolkit@anthropic-plugin-directory",
+      "name": "pr-review-toolkit",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "ea0a38e1d671-e40a2daa",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/pr-review-toolkit/ea0a38e1d671-e40a2daa"
+    },
+    "commit-commands": {
+      "id": "commit-commands@anthropic-plugin-directory",
+      "name": "commit-commands",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "1.0.1-43fd1f9db094",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/commit-commands/1.0.1-43fd1f9db094"
+    },
+    "claude-security": {
+      "id": "claude-security@anthropic-plugin-directory",
+      "name": "claude-security",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "0.11.0-c447c3207a42",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/claude-security/0.11.0-c447c3207a42"
+    },
+    "security-guidance": {
+      "id": "security-guidance@anthropic-plugin-directory",
+      "name": "security-guidance",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "2.0.17-fa4eb54397ee",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/security-guidance/2.0.17-fa4eb54397ee"
+    },
+    "frontend-design": {
+      "id": "frontend-design@anthropic-plugin-directory",
+      "name": "frontend-design",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "1.1.1-43fd1f9db094",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/frontend-design/1.1.1-43fd1f9db094"
+    },
+    "hookify": {
+      "id": "hookify@anthropic-plugin-directory",
+      "name": "hookify",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "0.1.1-43fd1f9db094",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/hookify/0.1.1-43fd1f9db094"
+    },
+    "mcp-server-dev": {
+      "id": "mcp-server-dev@anthropic-plugin-directory",
+      "name": "mcp-server-dev",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "a2e251d9b97b-c616a5e9",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/mcp-server-dev/a2e251d9b97b-c616a5e9"
+    },
+    "playground": {
+      "id": "playground@anthropic-plugin-directory",
+      "name": "playground",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "43fd1f9db094-7ff0b966",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/playground/43fd1f9db094-7ff0b966"
+    },
+    "claude-md-management": {
+      "id": "claude-md-management@anthropic-plugin-directory",
+      "name": "claude-md-management",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "1.0.0-43fd1f9db094",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/claude-md-management/1.0.0-43fd1f9db094"
+    },
+    "code-modernization": {
+      "id": "code-modernization@anthropic-plugin-directory",
+      "name": "code-modernization",
+      "marketplace": "anthropic-plugin-directory",
+      "version": "ca08d5e47d64-c08d297a",
+      "install_path": "/home/tristan/.claude/plugins/cache/anthropic-plugin-directory/code-modernization/ca08d5e47d64-c08d297a"
+    },
+    "typescript-lsp": {
+      "id": "typescript-lsp@claude-plugins-official",
+      "name": "typescript-lsp",
+      "marketplace": "claude-plugins-official",
+      "version": "1.0.0",
+      "install_path": "/home/tristan/.claude/plugins/cache/claude-plugins-official/typescript-lsp/1.0.0"
+    },
+    "pyright-lsp": {
+      "id": "pyright-lsp@claude-plugins-official",
+      "name": "pyright-lsp",
+      "marketplace": "claude-plugins-official",
+      "version": "1.0.0",
+      "install_path": "/home/tristan/.claude/plugins/cache/claude-plugins-official/pyright-lsp/1.0.0"
+    },
+    "rust-analyzer-lsp": {
+      "id": "rust-analyzer-lsp@claude-plugins-official",
+      "name": "rust-analyzer-lsp",
+      "marketplace": "claude-plugins-official",
+      "version": "1.0.0",
+      "install_path": "/home/tristan/.claude/plugins/cache/claude-plugins-official/rust-analyzer-lsp/1.0.0"
+    },
+    "gopls-lsp": {
+      "id": "gopls-lsp@claude-plugins-official",
+      "name": "gopls-lsp",
+      "marketplace": "claude-plugins-official",
+      "version": "1.0.0",
+      "install_path": "/home/tristan/.claude/plugins/cache/claude-plugins-official/gopls-lsp/1.0.0"
+    }
+  }
+}
